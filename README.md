@@ -3,5 +3,13 @@
 # PU77Y V2
 
 > Requirements :
+
 `npm i request`
+
 `npm i figlet`
+
+
+> How to start :
+
+Windows : `start pu77Yv2.bat`
+Linux / Android : `cd core` `node index.js <target> <port> <request per ms>`
