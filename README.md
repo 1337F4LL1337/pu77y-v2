@@ -6,7 +6,7 @@
 
 `npm i request`
 
-`npm i figlet`
+`npm i ping`
 
 
 > How to start :
